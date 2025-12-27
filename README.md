@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&width=650&lines=Hi+there!+I'm+Rohit+Pounikar;Senior+Java+Developer;Building+Scalable+Web+Applications" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&width=600&lines=Hi,+I'm+Rohit+Pounikar;Senior+Java+Developer;Building+Scalable+Web+Apps" alt="Typing SVG"/>
 </p>
-
 ---
 
 ## 📄 Summary
