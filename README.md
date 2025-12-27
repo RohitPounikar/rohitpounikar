@@ -37,8 +37,7 @@ Skilled in **backend development, database optimization, Agile methodologies**, 
 ---
 
 ## 🎓 Education
-**Bachelor of Engineering in Computer Science** - 
-**RTMNU**
+**Bachelor of Engineering in Computer Science** – RTMNU, **CGPA: 7.94**
 
 ---
 
