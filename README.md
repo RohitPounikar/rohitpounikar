@@ -37,7 +37,7 @@ Skilled in **backend development, database optimization, Agile methodologies**, 
 ---
 
 ## 🎓 Education
-**Bachelor of Engineering in Computer Science** | 2016 – 2020  
+**Bachelor of Engineering in Computer Science**
 **RTMNU**
 
 ---
