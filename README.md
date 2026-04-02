@@ -60,7 +60,8 @@ Skilled in **backend development, database optimization, Agile methodologies**, 
 **Projects Worked On:**  
 - **IDSS Repossession (ICICI)**  
 - **Corporate Internet Banking (ICICI)**  
-- **Forex Cards (ICICI)**  
+- **Forex Cards (ICICI)**
+- **DLT Deutsche Boerse**  
 
 **Banking Application Project**  
 - Built modules for **customer acquisition, deposits, loans, and reporting**.  
