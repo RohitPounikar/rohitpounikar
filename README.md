@@ -4,7 +4,7 @@
 ---
 
 ## 📄 Summary
-Senior **Java Developer** with **4+ years of experience** building scalable web applications using **Java, Spring Boot, MySQL**, and **RESTful APIs**.  
+Senior **Java Full stack Developer** with **4.7+ years of experience** building scalable web applications using **Java, Spring Boot, MySQL**, and **RESTful APIs**.  
 Skilled in **backend development, database optimization, Agile methodologies**, containerization with **Docker & Kubernetes**, cloud deployment, and delivering high-performance solutions using **DevOps tools**.  
 
 ---
